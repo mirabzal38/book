@@ -1,0 +1,62 @@
+{
+  "movies": [
+    {
+      "id": "f65c",
+      "name": "Lucifer",
+      "description": "fantasy",
+      "year": "2023",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiKhTWiNno4kAZi-HY64pTptNCO1o5sJ2EqB3toeDwRg&s"
+    },
+    {
+      "id": "5998",
+      "name": "Black Adam",
+      "description": "fantasy",
+      "year": "2023",
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt4052886%2F&psig=AOvVaw306-kwJKw3V8rLS3RHCOl_&ust=1713109066166000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPi329DCv4UDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "4bd6",
+      "name": "teen wolf",
+      "description": "fantasy",
+      "year": "2013",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b292be7-9583-476f-a8fb-3680c8f1de2f/d7kubw0-83186adc-cc92-483d-892c-a244ee7598f8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzliMjkyYmU3LTk1ODMtNDc2Zi1hOGZiLTM2ODBjOGYxZGUyZlwvZDdrdWJ3MC04MzE4NmFkYy1jYzkyLTQ4M2QtODkyYy1hMjQ0ZWU3NTk4ZjguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BELzJPSEX-Zr3WXOLhTGaAiVfDx4mYyax-tkcJhNV34"
+    },
+    {
+      "id": "fd5e",
+      "name": "Avatar",
+      "description": "fantasy",
+      "year": "2023",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vIcgwrxphbJqpnbTxd09b0MWRuW3qMi-IOEMB1y4Lw&s"
+    }
+  ],
+  "banners": [
+    {
+      "id": "5998",
+      "name": "Black Adam",
+      "description": "fantasy",
+      "year": "2023",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLNnsimGa4NaMHtz-LcNttTugXgGojC1-3qRgijKaFg&s"
+    },
+    {
+      "id": "4bd6",
+      "name": "teen wolf",
+      "description": "fantasy",
+      "year": "2013",
+      "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b292be7-9583-476f-a8fb-3680c8f1de2f/d7kubw0-83186adc-cc92-483d-892c-a244ee7598f8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzliMjkyYmU3LTk1ODMtNDc2Zi1hOGZiLTM2ODBjOGYxZGUyZlwvZDdrdWJ3MC04MzE4NmFkYy1jYzkyLTQ4M2QtODkyYy1hMjQ0ZWU3NTk4ZjguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BELzJPSEX-Zr3WXOLhTGaAiVfDx4mYyax-tkcJhNV34"
+    },
+    {
+      "id": "f65c",
+      "name": "Lucifer",
+      "description": "fantasy",
+      "year": "2023",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ00AEG8LsGHZCx6PXkPTK2ARowAGZv4kkGrSXIbojthFQfWZ8yG2GHIvoae9nMpBT_p0Q&usqp=CAU"
+    },
+    {
+      "id": "fd5e",
+      "name": "Avatar",
+      "description": "fantasy",
+      "year": "2023",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vIcgwrxphbJqpnbTxd09b0MWRuW3qMi-IOEMB1y4Lw&s"
+    }
+  ]
+}
