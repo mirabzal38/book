@@ -27,6 +27,7 @@ function Home() {
   const handleReturnDateChange = (event) => {
     setReturnDate(event.target.value);
   };
+  console.log()
 
   return (
     <div className='flex p-6 gap-6 bg-slate-600'>
