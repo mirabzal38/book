@@ -11,14 +11,15 @@ function App() {
     <>
       <Navbar />
       <Routes>
-        <Route path="/admin" element={<Admin />} />
+        
+        <Route path="/admin" element={<Admin />}/>
         <Route path="/hero" element={<Hero />} />
         <Route path="/" element={<Home />} />
 
 
 
       </Routes>
-
+      <Hero/>
     </>
   )
 }
